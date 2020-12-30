@@ -33,7 +33,7 @@
         "import numpy as np\r\n",
         "import matplotlib.pyplot as plt\r\n"
       ],
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -92,7 +92,7 @@
         "  c=Bandwidth*np.log2(1+SNR)\r\n",
         "  return c\r\n"
       ],
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -180,7 +180,7 @@
         "\r\n",
         "\r\n"
       ],
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -213,7 +213,7 @@
         "plt.ylabel(\"Daya Terima (mW)\")\r\n",
         "plt.show()"
       ],
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -273,7 +273,7 @@
         "plt.ylabel(\"SNR\")\r\n",
         "plt.show()"
       ],
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -333,7 +333,7 @@
         "plt.ylabel(\"Capacity\")\r\n",
         "plt.show()"
       ],
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
